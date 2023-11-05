@@ -11,4 +11,4 @@ const server = http.createServer((request, response) => {
 
 server.listen(port)
 
-console.log(`Server running at http://localhost: ${port} - version 1`)
+console.log(`Server running at http://localhost: ${port} - version 2`)
